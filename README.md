@@ -10,4 +10,4 @@ git clone https://github.com/aminobotskek/imageeditor
 ```python3
 import imageeditor
 client = imageeditor.Client()
-client.get_results(uuid="")
+client.get_result(uuid="")
